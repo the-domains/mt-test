@@ -1,0 +1,14 @@
+layout_spectrum: 0.23768040840514004
+typography_spectrum: 0.24330174014903605
+color:
+  brandStrength: 0.7894868855364621
+  lightness: 0.29193807346746325
+  saturation: 0.7358850026503205
+  rhythmicContrast: 0.8229256728664041
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: mt test
